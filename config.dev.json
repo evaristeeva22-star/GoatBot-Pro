@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "—͞ 𝐐𝐔𝐄𝐄𝐍 🎀❤️‍🩹",
+  "nickNameBot": "𝐋𝐈𝐍𝐀𝐁𝐎𝐓🎀❤️‍🩹",
   "prefix": "/",
   "noPrefix": {
     "enable": false,
@@ -23,7 +23,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61583835186508",
+    "100050311501032",
     " ",
     " "
   ],
